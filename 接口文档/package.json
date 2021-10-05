@@ -19,7 +19,7 @@
     "fastify-formbody": "^2.0.1",
     "fastify-jwt": "^0.3.0",
     "fastify-plugin": "^1.2.0",
-    "fastify-static": "^0.14.0",
+    "fastify-static": "^4.2.4",
     "gm": "^1.23.1",
     "mongoose": "^5.2.14"
   },
